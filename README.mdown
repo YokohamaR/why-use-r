@@ -1,0 +1,7 @@
+Why use R?
+======
+
+## See also...
+
+* [Econometrics by Simulation: Why use R? Five reasons.](http://www.econometricsbysimulation.com/2014/03/why-use-r-five-reasons.html)
+* [Rを使えるようになるための10のこと＋α - iAnalysis ～おとうさんの解析日記～](http://d.hatena.ne.jp/isseing333/20110917/1316231082)

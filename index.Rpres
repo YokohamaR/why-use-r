@@ -1,0 +1,44 @@
+Rのない世界とRのある世界の話
+========================================================
+author: 瓜生真也（横浜国立大学大学院環境情報学府）
+date: June 30, 2014
+font-family: 'Helvetica'
+autosize: true
+css: custom.css
+
+```{r, global_option, include=FALSE}
+library(knitr)
+opts_chunk$set(
+  warning=FALSE,
+  message=FALSE,
+  fig.path="figure/")
+```
+
+CONTENTS
+=====
+
+1. 
+
+もしRがなかったら...
+=====
+
+Excelの敷居は低いのか？
+
+> Aさん「研究のために統計解析をしたいのだけど...（どうするの?）」
+
+> Aさん「」
+
+> Aさん「...Excel?」
+
+もしRがなかったら...
+=====
+
+> Bさん「実験結果を図示したい」
+
+> Bさん「とりあえずExcelで作るか」
+
+> Cさん「曲線回帰してみてよ」
+
+> Bさん「」
+
+![](https://github.com/YokohamaR/yokohama.r/wiki/src/images/view-data-on-excel.png)
